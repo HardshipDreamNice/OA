@@ -32,7 +32,7 @@
        登陆的用户的个人办公模块会有由日程管理，个人便签，通讯录，请假记录模块。其中普通员工有对日程的查看，个人便签的增删改查，通讯录的查看，请假的查看功能。经理和boss有对日程，个人便签，通讯录，请假的增删改查功能。如图10所示。
      
    图10 个人办公系统界面图
-    ![Image text](https://github.com/HardshipDreamNice/OA/blob/master/sql/img/1.png)
+    ![iamge](https://github.com/HardshipDreamNice/OA/blob/master/sql/img/1.png)
     ![Image text](sql/img/1.png)
    4.3.2 会议管理模块的实现
           会议管理模块只有权限高的boss和经理才能看到，有会议室管理，会议管理，和预约管理三个模块，实现了会议室的预约，会议管理，和预约管理的增删改查功能，如图11所示。
